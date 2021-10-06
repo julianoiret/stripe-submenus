@@ -1,5 +1,8 @@
 ## React project
 
+Clone of Stripe
+[strip.com.au](https://stripe.com/au)
+
 ### Desktop
 ![screenshot](images/stripe-1.png)
 
